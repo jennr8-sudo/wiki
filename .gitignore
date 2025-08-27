@@ -47,3 +47,9 @@ test-results/
 
 # Localization Resources
 /server/locales/**/*.yml
+
+# gemini-cli settings
+.gemini/
+
+# GitHub App credentials
+gha-creds-*.json
